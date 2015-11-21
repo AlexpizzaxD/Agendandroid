@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Agendandroid</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_hacer">¿Que quieres hacer?</string>
+
+
+    <!--Strings AgregarRegistros-->
+    <string name="txt_registro">Registra tus datos</string>
+    <string name="hint_usuario">Escribe tu usuario</string>
+    <string name="hint_nombre">Escribe tu nombre</string>
+    <string name="hint_numero_telefono">Número telefonico</string>
+    <string name="hint_numero_telefono_alternativo">Numero alternativo</string>
+    <string name="hint_correo">Escribe tu email</string>
+    <string name="radio_docente">Docente</string>
+    <string name="radio_otro">Otro</string>
+    <string name="radio_alumno">Alumno</string>
+    <string name="btn_guardar">Guardar Datos</string>
+
+    <!--Strings Error AgregarRegistros-->
+    <string name="error_msn_usuario">Hey! Escribe el nombre de usuario</string>
+    <string name="error_msn_nombre">Hey! Escribe tu nombre</string>
+    <string name="error_msn_correo">Hey! Escribe tu correo</string>
+    <string name="error_msn_numero">Hey! Escribe tu numero</string>
+</resources>
